@@ -27,7 +27,7 @@ This is the core code from scratch to clone the landing page of Netflix using **
 - Create a **[Pull Request](https://github.com/Susmita-Dey/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
-## ⭐ HOW TO MAKE A PULL REQUEST:
+## ⭐ HOW TO MAKE PULL REQUEST:
 
 **1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Susmita-Dey/Netflix-Clone) repository. Click on the <a href="https://github.com/Susmita-Dey/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
