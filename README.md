@@ -1,3 +1,7 @@
+# Deployed Link
+https://netflix-clone-nine-tau-59.vercel.app/
+
+
 # Netflix-Clone
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
